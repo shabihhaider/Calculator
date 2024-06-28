@@ -1,0 +1,27 @@
+#calculator {
+    border: 2px solid #ddd;
+    width: 300px;
+    padding-bottom: 10px;
+}
+
+#display {
+    margin: 10px;
+    font-size: 25px;
+    width: 90%;
+    height: 40px;
+}
+
+.button {
+    width: 80px;
+    height: 55px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+#cal-button {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
